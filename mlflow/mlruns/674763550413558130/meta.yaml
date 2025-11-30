@@ -1,0 +1,6 @@
+artifact_location: file:///F:/Github/MaintenX/mlflow/mlruns/674763550413558130
+creation_time: 1764532135258
+experiment_id: '674763550413558130'
+last_update_time: 1764532135258
+lifecycle_stage: active
+name: PdM_catboost_binary
