@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Github/MaintenX/mlflow/mlruns/674763550413558130/375bb57176b84ee48dbb9db412b6a7d9/artifacts
+end_time: 1764532142695
+entry_point_name: ''
+experiment_id: '674763550413558130'
+lifecycle_stage: active
+run_id: 375bb57176b84ee48dbb9db412b6a7d9
+run_name: fearless-sheep-451
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764532135271
+status: 4
+tags: []
+user_id: Elsadany

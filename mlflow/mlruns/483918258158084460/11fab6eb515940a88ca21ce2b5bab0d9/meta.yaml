@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Github/MaintenX/mlflow/mlruns/483918258158084460/11fab6eb515940a88ca21ce2b5bab0d9/artifacts
+end_time: 1764532822014
+entry_point_name: ''
+experiment_id: '483918258158084460'
+lifecycle_stage: active
+run_id: 11fab6eb515940a88ca21ce2b5bab0d9
+run_name: debonair-crow-485
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764532800694
+status: 3
+tags: []
+user_id: Elsadany

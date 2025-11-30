@@ -1,0 +1,6 @@
+artifact_location: file:///F:/Github/MaintenX/mlflow/mlruns/285297612668879026
+creation_time: 1764532102713
+experiment_id: '285297612668879026'
+last_update_time: 1764532102713
+lifecycle_stage: active
+name: PdM_xgboost_multiclass

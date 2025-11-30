@@ -1,0 +1,10 @@
+artifact_location: file:///F:/Github/MaintenX/mlflow/mlruns/285297612668879026/models/m-657c1633fb2144b3b7c9fc5c982433e4/artifacts
+creation_timestamp: 1764532797134
+experiment_id: '285297612668879026'
+last_updated_timestamp: 1764532800613
+model_id: m-657c1633fb2144b3b7c9fc5c982433e4
+model_type: null
+name: model
+source_run_id: 54a03188f83a4d41a855921726d99daf
+status: 2
+status_message: null

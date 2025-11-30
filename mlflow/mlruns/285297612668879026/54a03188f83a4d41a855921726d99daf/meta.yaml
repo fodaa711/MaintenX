@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Github/MaintenX/mlflow/mlruns/285297612668879026/54a03188f83a4d41a855921726d99daf/artifacts
+end_time: 1764532800625
+entry_point_name: ''
+experiment_id: '285297612668879026'
+lifecycle_stage: active
+run_id: 54a03188f83a4d41a855921726d99daf
+run_name: upbeat-wren-446
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764532795499
+status: 3
+tags: []
+user_id: Elsadany

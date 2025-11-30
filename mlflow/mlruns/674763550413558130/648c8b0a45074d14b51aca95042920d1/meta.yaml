@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/Github/MaintenX/mlflow/mlruns/674763550413558130/648c8b0a45074d14b51aca95042920d1/artifacts
+end_time: 1764532831437
+entry_point_name: ''
+experiment_id: '674763550413558130'
+lifecycle_stage: active
+run_id: 648c8b0a45074d14b51aca95042920d1
+run_name: abrasive-stoat-387
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764532822093
+status: 3
+tags: []
+user_id: Elsadany

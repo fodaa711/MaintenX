@@ -1,0 +1,6 @@
+artifact_location: file:///F:/Github/MaintenX/mlflow/mlruns/483918258158084460
+creation_time: 1764532113713
+experiment_id: '483918258158084460'
+last_update_time: 1764532113713
+lifecycle_stage: active
+name: PdM_catboost_multiclass
